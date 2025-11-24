@@ -65,7 +65,8 @@ This circuit is useful for controlling the direction of small DC motors in low-p
 <img width="1280" height="773" alt="image" src="https://github.com/user-attachments/assets/be7d3390-8f18-48e9-bba6-0727cdbba28f" />
  
 ## Layout diagram:
-![Uploading image.png…]()
+<img width="1280" height="698" alt="image" src="https://github.com/user-attachments/assets/51a0800a-8ef5-4f9d-aa69-9f251119b7a4" />
+
  
 # RESULT:
 Thus, the schematic and PCB layout for the DC motor direction control circuit has been successfully designed using Altium software.
